@@ -1,3 +1,3 @@
 # Calculo-de-IMC
-Calculadora de IMC com NodeJS
+Calculadora de IMC com NodeJS com Insomnia
 
